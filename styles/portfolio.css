@@ -95,8 +95,8 @@ p {
   padding: 15px 30px;
   color: white;
 }
-.btn-branding a:hover {
-  color: #f5a9b8;
+.btn .btn-branding :hover {
+  background-color: #f5a9b8;
 }
 .btn-branding-outline {
   color: var(--branding-color);
