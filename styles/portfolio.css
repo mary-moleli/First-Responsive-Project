@@ -96,7 +96,7 @@ p {
   color: white;
 }
 a.btn .btn-branding :hover {
-  background-color: #f5a9b8;
+  color: #f7f4f5;
 }
 .btn-branding-outline {
   color: var(--branding-color);
