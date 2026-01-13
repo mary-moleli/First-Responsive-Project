@@ -165,25 +165,9 @@ footer .email-link:hover {
   color: var(--branding-color);
 }
 
-/*footer .social-icons a {
+footer .social-icons a {
   margin: 0 20px;
   color: rgb(235, 197, 151);
-  padding: 10px 14px;
-  font-size: 20px;
-  border-radius: 50%;
-}*/
-
-/*footer .social-icons a:hover {
-  transform: scale(1.8);
-  background: rgb(238, 109, 131);
-  transition: all 100ms ease-in-out;
-}*/
-
-/* Footer social icons */
-footer .social-icons a,
-footer .social-icons a i {
-  margin: 0 20px;
-  color: rgb(235, 197, 151); /* ensure icons are visible */
   padding: 10px 14px;
   font-size: 20px;
   border-radius: 50%;
@@ -194,6 +178,7 @@ footer .social-icons a:hover {
   background: rgb(238, 109, 131);
   transition: all 100ms ease-in-out;
 }
+
 footer .contact-box {
   background: var(--secondary-color);
   padding: 30px 120px;
