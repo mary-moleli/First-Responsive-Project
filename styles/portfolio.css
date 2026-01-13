@@ -165,7 +165,7 @@ footer .email-link:hover {
   color: var(--branding-color);
 }
 
-footer .social-icons a {
+footer .social-icons {
   margin: 0 20px;
   color: rgb(235, 197, 151);
   padding: 10px 14px;
