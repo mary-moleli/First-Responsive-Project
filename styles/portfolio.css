@@ -175,7 +175,7 @@ footer .social-icons a {
 
 footer .social-icons a:hover {
   transform: scale(1.8);
-  background: pink;
+  background: rgb(238, 109, 131);
   transition: all 100ms ease-in-out;
 }
 
