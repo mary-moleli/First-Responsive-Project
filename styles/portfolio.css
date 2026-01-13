@@ -68,7 +68,6 @@ p {
 }
 
 .hero {
-  background: var(--background-color);
   text-align: center;
   padding: 80px 20px;
 }
@@ -88,7 +87,6 @@ p {
 }
 
 .btn-branding {
-  background: var(--branding-color);
   border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
